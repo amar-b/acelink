@@ -18,6 +18,7 @@ http://127.0.0.1:6878/ace/getstream?content_id=<content_id>
 Desktop entry to open magenet links directly
 ###
 ```sh
+chmod +x acelink.sh
 desktop-file-install --dir=$HOME/.local/share/applications desktop/acelink.desktop
 update-desktop-database ~/.local/share/applications
 ```
