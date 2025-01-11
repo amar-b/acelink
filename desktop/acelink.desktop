@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment[en_US]=Open AceStreams
 Comment=Open AceStreams
-Exec=/mypath/acelink/acelink.sh
+Exec=/mypath/acelink/acelink.sh %u
 Icon=/mypath/acelink/icon.png
 GenericName[en_US]=
 MimeType=x-scheme-handler/acestream
